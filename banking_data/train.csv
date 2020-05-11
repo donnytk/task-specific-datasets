@@ -164,7 +164,7 @@ I found my card. How can I put it into my app?,card_linking
 How do I make my card show up in the app?,card_linking
 Can you show me where to link the new card?,card_linking
 I found my old card. Can I link it back into the app?,card_linking
-Show me how to link the new card,,card_linking
+Show me how to link the new card,card_linking
 How do I add an existing card to the app?,card_linking
 I finally got my card.  Now I want to link it.  Is that something you have to do or can I do that?,card_linking
 How do I link one of your card that I already have?,card_linking
@@ -679,9 +679,9 @@ Can you tell me why I was charged $1 for a transaction?,extra_charge_on_statemen
 Why is there an extra €1 fee in my statement?,extra_charge_on_statement
 There is an extra charge on my account I didn't authorise it's just £1 what is it?,extra_charge_on_statement
 What is the dollar that I have pending on my statement there?,extra_charge_on_statement
-I see an extra $1  charge on my statement why is this?,extra_charge_on_statement
+I see an extra $1  charge on my statement why is this?,extra_charge_on_statement
 Can you please explain to me why there is an extra €1 fee in my statement?,extra_charge_on_statement
-There is an unexplained $1 charge on my statement can you please explain this to me?,extra_charge_on_statement
+There is an unexplained $1 charge on my statement can you please explain this to me?,extra_charge_on_statement
 How can I find out about an extra fee on my statement?,extra_charge_on_statement
 Hello I see that I have been charged an extra $1 on my app.  Could you please provide me with a reason for this charge?,extra_charge_on_statement
 In my statement there was an extra €1 fee,extra_charge_on_statement
@@ -693,7 +693,7 @@ Why was I charged an additional $1?,extra_charge_on_statement
 I checked my statement and am being charged one pound. Where did this charge come from?,extra_charge_on_statement
 I do not know why I was charged for the $1 transaction.,extra_charge_on_statement
 I wanted to know about a pending dollar that is on my statement.,extra_charge_on_statement
-I'm pretty frustrated about a pound charge that keeps  showing up in my account statement. It's listed in the app as pending, it never changes, and now I'm thinking someone's hacked my account!,extra_charge_on_statement
+I'm pretty frustrated about a pound charge that keeps  showing up in my account statement. It's listed in the app as pending it never changes and now I'm thinking someone's hacked my account!,extra_charge_on_statement
 How come there is a $1 extra charge on my statement?,extra_charge_on_statement
 I was charged an extra pound.,extra_charge_on_statement
 There is a charge for an additional pound.,extra_charge_on_statement
@@ -1503,7 +1503,7 @@ Can you send me a new card and block my current one. I'm in Spain and my wallet 
 I thought I left my card at a restaurant but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?,lost_or_stolen_card
 My bag got stolen with all my cards. Can you please cancel my card and send a new one?,lost_or_stolen_card
 I think my card is stolen!,lost_or_stolen_card
-Help!  I fear that my card was stolen,,lost_or_stolen_card
+Help!  I fear that my card was stolen,lost_or_stolen_card
 Someone stole my card!,lost_or_stolen_card
 Are you able to guide me to my card's location?,lost_or_stolen_card
 How can I report that my card was stolen? I made a police report first.,lost_or_stolen_card
@@ -2065,7 +2065,7 @@ Problem with my top up going through,pending_top_up
 How do I know if my top-up went through?,pending_top_up
 Can you please sort out your top up? I need this to go through asap because I really need the money. It's already been pending for an hour.,pending_top_up
 Can you tell me why my pop-up is still pending?,pending_top_up
-new customer and filling gas for the first time today not working,,pending_top_up
+new customer and filling gas for the first time today not working,pending_top_up
 What's taking my top-up so long?,pending_top_up
 What is wrong with my top-up?,pending_top_up
 When will my top up process?,pending_top_up
@@ -4336,7 +4336,7 @@ How does someone else top up my account,topping_up_by_card
 Who can have access to top up my account?,topping_up_by_card
 I have a new card. How do i top it up?,topping_up_by_card
 Do i have to top-up with my credit card before I can transfer?,topping_up_by_card
-I need my card topped up,,topping_up_by_card
+I need my card topped up,topping_up_by_card
 What steps do I do to transfer money using my credit card?,topping_up_by_card
 I topped up my account but the money isn't there now.,topping_up_by_card
 How can I use my credit card to transfer money?,topping_up_by_card
@@ -5115,12 +5115,12 @@ I made a payment with my card and it hasn't changed. How long do you think this 
 Why is the payment showing as pending from things I bought this morning?,pending_card_payment
 I made a card payment which is showing me pending.,pending_card_payment
 Why are my payments not working and show pending?,pending_card_payment
-I put in a payment a while ago and it has still not cleared and is showing up as pending, how long does it take to clear?,pending_card_payment
+I put in a payment a while ago and it has still not cleared and is showing up as pending how long does it take to clear?,pending_card_payment
 Why are the things I bought earlier today still showing as pending?,pending_card_payment
 Card payment still pending.,pending_card_payment
 My card payment is just showing up as pending since forever what's going on with that it should be going through at some point?,pending_card_payment
 I have a payment that has not gone through yet,pending_card_payment
-I initiated a payment a while ago and it is still showing as pending, how long will it take to clear?,pending_card_payment
+I initiated a payment a while ago and it is still showing as pending how long will it take to clear?,pending_card_payment
 Why is my purchase showing as pending?,pending_card_payment
 How long will it take for my payment to go through?,pending_card_payment
 After making a payment with my card it doesn't seem to have worked. It's just showing to be pending. When will this actually be going through?,pending_card_payment
@@ -6319,7 +6319,7 @@ A transaction shows duplicate times.,transaction_charged_twice
 There is a repeat charge for the same item,transaction_charged_twice
 How can I fix this?  There is a double charge on my account.,transaction_charged_twice
 My card got charged twice for the same thing!,transaction_charged_twice
-My husband and I went out for our weekly dinner and a movie, and it was my turn to pick up the check. Now I see that my card was charged twice. Who should I contact about negating the second charge and getting my card credited?,transaction_charged_twice
+My husband and I went out for our weekly dinner and a movie and it was my turn to pick up the check. Now I see that my card was charged twice. Who should I contact about negating the second charge and getting my card credited?,transaction_charged_twice
 How do I query a payment on my card? It looks like I have paid for the same thing twice.,transaction_charged_twice
 I have duplicated transactions on my statement,transaction_charged_twice
 I only made one transaction at this place but it's appearing multiple times.,transaction_charged_twice
@@ -8892,7 +8892,7 @@ There was just a withdrawal but it wasn't me I've never even visited the town wh
 I am using the app and I see cash withdrawals that I did not authorize.,cash_withdrawal_not_recognised
 I did not make a cash withdrawal that is on my statement,cash_withdrawal_not_recognised
 The app shows a withdrawal that I did not make or authorize.,cash_withdrawal_not_recognised
-Money was taken out without my consent,,cash_withdrawal_not_recognised
+Money was taken out without my consent,cash_withdrawal_not_recognised
 I don't recognize this withdrawal on my statement,cash_withdrawal_not_recognised
 How do I report a cash withdrawal that wasn't me?,cash_withdrawal_not_recognised
 Why is there some cash that I did not deposit in my account?,cash_withdrawal_not_recognised
